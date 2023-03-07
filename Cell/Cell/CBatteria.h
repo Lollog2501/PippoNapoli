@@ -4,7 +4,7 @@ class CBatteria
 
 private:
 
-	int capacita, livello, u;
+	int capacita, livello;
 
 public:
 
@@ -14,8 +14,4 @@ public:
 	void setLivello(int livello);
 
 	int getLivello(int livello);
-
-
-
-
 };

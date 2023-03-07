@@ -6,6 +6,7 @@ class CCellulare
 private:
 
 	int sms, chiamata, secondi;
+	CBatteria batteria;
 
 public:
 
